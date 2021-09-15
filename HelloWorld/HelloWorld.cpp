@@ -2,7 +2,7 @@
  * HelloWorld.cpp
  *
  *  Created on: 14 sept. 2021
- *      Author: julie
+ *      Author: Julien CONSTANT
  */
 
 #include "HelloWorld.h"

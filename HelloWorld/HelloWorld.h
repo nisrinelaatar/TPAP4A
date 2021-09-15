@@ -2,7 +2,7 @@
  * HelloWorld.h
  *
  *  Created on: 14 sept. 2021
- *      Author: julie
+ *      Author: Julien CONSTANT
  */
 
 #ifndef HELLOWORLD_H_
